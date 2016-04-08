@@ -12,6 +12,8 @@
             "email": "hello@joshlockhart.com",
             "homepage": "https://joshlockhart.com"
         } 
-    ]
-     
+    ],
+    "require": {
+        "php": ">=5.5.0" 
+    } 
 }
