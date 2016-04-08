@@ -1,2 +1,6 @@
 <?php
-echo 333;
+namespace Leven;
+class App{
+
+	
+}
